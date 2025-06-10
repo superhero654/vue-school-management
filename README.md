@@ -33,3 +33,4 @@ npm run build
 ```sh
 npm run lint
 ```
+# 前端代码，框架是Vue3,组件是elementplus,echarts,语言是HTML,CSS,JS
